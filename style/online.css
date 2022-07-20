@@ -1,4 +1,4 @@
-/*@import url('cookie-confirm.css') screen;*/
+﻿/*@import url('cookie-confirm.css') screen;*/
 
 #navbar {
   position:fixed;
@@ -373,7 +373,7 @@
   font-weight: 400;
   src: url("../fonts/titillium-web-v4-latin_latin-ext-regular.eot");
   /* IE9 Compat Modes */
-  src: local("Titillium Web"), local("TitilliumWeb-Regular"), url("../fonts/titillium-web-v4-latin_latin-ext-regular.eot?#iefix") format("embedded-opentype"), url("https://d33sqmjvzgs8hq.cloudfront.net/wp-content/themes/oneqt/assets/fonts/titillium-web-v4-latin_latin-ext-regular.woff2") format("woff2"), url("../fonts/titillium-web-v4-latin_latin-ext-regular.woff") format("woff"), url("../fonts/titillium-web-v4-latin_latin-ext-regular.ttf") format("truetype"), url("../fonts/titillium-web-v4-latin_latin-ext-regular.svg#TitilliumWeb") format("svg");
+  src: local("Titillium Web"), local("TitilliumWeb-Regular"), url("../fonts/titillium-web-v4-latin_latin-ext-regular.eot?#iefix") format("embedded-opentype"), url("https://cdn.jsdelivr.net/gh/Fast-Track-Malaysia/SAP_DI_API_Assets@ec7548c5f5638a762a37ce7f161d90d7061bf8eb/fonts/titillium-web-v4-latin_latin-ext-regular.woff2") format("woff2"), url("../fonts/titillium-web-v4-latin_latin-ext-regular.woff") format("woff"), url("../fonts/titillium-web-v4-latin_latin-ext-regular.ttf") format("truetype"), url("../fonts/titillium-web-v4-latin_latin-ext-regular.svg#TitilliumWeb") format("svg");
   /* Legacy iOS */
 }
 /* titillium-web-italic - latin_latin-ext */
